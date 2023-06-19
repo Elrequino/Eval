@@ -1,1 +1,0 @@
-Le site à pour but d'être un apllication web qui génére des blagues automatiquements grace à un bouton, le site doit représenter la marque carambar.
